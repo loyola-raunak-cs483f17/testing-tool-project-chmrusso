@@ -1,26 +1,11 @@
 # testing-tool-project-chmrusso
 ___
-Product: Jtest
+Product:StoryTeller
 
-# What is JTest?
-It is an automated Java software testing and static analysis product that is made by Parasoft.
-The produt includes technology Data-flow analysis Unit test-case generation and execution,statuc analysis, regression testing,
-runtine error detection, code review, and design by contract. 
-It is known to be used by Lockheed Martin for the F-35 Joint Strike Fighter Program (JSF). 
+# What is StoryTeller?
+StoryTeller is an Eclipse plugin which helps you write high quality code by using your tests as living documentation, or put differently, by telling the story of your code.
 
-//(JFK): This is a development and acquisition program intended to replace a wide range of existing fight, strike, and ground
-//attack aricraft for the United states, United kingdom, Turkey, Italy, Canada, australia, the netherlands and their allies. 
+Making code easier to understand is important since code is harder to read than to write. A great way to do that is to see tests as stories about the code. This helps you focus on communication and intent, rather than technical details.
 
-# Who is Parasoft? 
-Is an independent software testing and software quality assurance tool and solution vendor. 
-Senior Account Manager: Bill Valdez
-Email: bill.valdez@parasoft.com
+This is where StoryTeller comes in. It helps you 
 
-Parasoft develops automated defect prevention technologies that support the automated defect prevention methodology developed by Adam Kolawa, CEO/Co-Founder Parasoft. 
-
-# Jtest Video
-https://www.youtube.com/watch?v=fT3bYHO4W4U Made by Vice president of Product managment. 
-
-https://www.youtube.com/watch?v=hX63ypcIxDU
-
-Product: 
