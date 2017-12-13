@@ -9,7 +9,10 @@ public class ArrayIndexOutOfBounds_Test
 	}
 	
 	public static int fifthElement(int [] testing) {
-		int num = testing[4];
+		int num = 0; 
+		for(int i = 0; i <= 5; i++) {
+		    num = testing[4];
+		}
 		return num;
 	}
 }
